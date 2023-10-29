@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=day15prac/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.service{productService.java[productService" modifiers="513" timestamp="1687610540000"/>
+    <typeInfo handle="=springExam2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.service{DepartmentService.java[DepartmentService" modifiers="513" timestamp="1688819462000"/>
+    <typeInfo handle="=springExam/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.service{StudentService.java[StudentService" modifiers="513" timestamp="1688916862000"/>
+    <typeInfo handle="=springExam/\/Users\/apple\/.m2\/repository\/org\/mockito\/mockito-core\/4.5.1\/mockito-core-4.5.1.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/org.mockito=/=/maven.artifactId=/mockito-core=/=/maven.version=/4.5.1=/=/maven.scope=/test=/&lt;org.mockito.invocation(StubInfo.class[StubInfo" modifiers="1537" timestamp="1687510551000"/>
+    <typeInfo handle="=BookAuthor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.service{BookService.java[BookService" modifiers="513" timestamp="1688981551000"/>
+    <typeInfo handle="=SpringBootPrac/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1695752926000"/>
+</typeInfoHistroy>

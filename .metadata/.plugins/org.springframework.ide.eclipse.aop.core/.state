@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringBackEndd"/>
+<aop-project name="day11.2"/>
+<aop-project name="day12.1"/>
+<aop-project name="day12.5"/>
+<aop-project name="springExam2"/>
+<aop-project name="spring-boot-aop"/>
+<aop-project name="spring-boot-testing"/>
+<aop-project name="Ecommerce-Backend"/>
+<aop-project name="day12.4"/>
+<aop-project name="day15prac"/>
+<aop-project name="day18.2"/>
+<aop-project name="day15.1"/>
+<aop-project name="day13.3"/>
+<aop-project name="springExam"/>
+<aop-project name="spring_boot_backend_template"/>
+<aop-project name="day14_boot"/>
+<aop-project name="day12.3"/>
+<aop-project name="StudentAdmission"/>
+<aop-project name="spring_boot_template_mvc"/>
+<aop-project name="day17.2"/>
+<aop-project name="day13.2"/>
+<aop-project name="spring_boot_backend_security_jwt_template"/>
+<aop-project name="day16_lab"/>
+<aop-project name="spring_mvc_templateprac"/>
+<aop-project name="test_spring"/>
+<aop-project name="SpringBootPrac"/>
+<aop-project name="day12.2"/>
+<aop-project name="day12.6"/>
+<aop-project name="day17.1"/>
+<aop-project name="spring_mvc_template"/>
+<aop-project name="day13.1"/>
+<aop-project name="BookAuthor"/>
+<aop-project name="day16_REST"/>
+<aop-project name="day15_REST"/>
+</aop-reference-model>

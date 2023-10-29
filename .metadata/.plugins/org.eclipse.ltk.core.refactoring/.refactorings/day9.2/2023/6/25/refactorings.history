@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;hibernate.cfg.xml&apos; to &apos;web_maven_hibernate/src/test/resources&apos;&#x0A;- Original project: &apos;day9.2&apos;&#x0A;- Destination element: &apos;web_maven_hibernate/src/test/resources&apos;&#x0A;- Original element: &apos;hibernate.cfg.xml&apos;" description="Copy file" destination="=web_maven_hibernate/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/" element1="src/main/resources/hibernate.cfg.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1687171247995" units="0" version="1.0"/>
+</session>

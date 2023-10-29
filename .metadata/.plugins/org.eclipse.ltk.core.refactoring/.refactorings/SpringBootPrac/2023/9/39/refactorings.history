@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.app.Entities&apos; to &apos;com.app.entities&apos;&#x0A;- Original project: &apos;SpringBootPrac&apos;&#x0A;- Original element: &apos;SpringBootPrac/src/main/java/com.app.Entities&apos;&#x0A;- Renamed element: &apos;SpringBootPrac/src/main/java/com.app.entities&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings&#x0A;- Rename subpackages of the package" description="Rename package &apos;com.app.Entities&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.Entities" name="com.app.entities" qualified="false" references="true" stamp="1695738435900" textual="false" version="1.0"/>
+</session>

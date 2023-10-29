@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1686215618213_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1686215618238_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1686743430508_3" label="test_hibernate_basic" name="test_hibernate_basic">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/test_hibernate_basic" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687191633191_4" label="test_spring" name="test_spring">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/test_spring" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687250813972_5" label="day10_lab" name="day10_lab">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day10_lab" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687250844586_6" label="day11.1" name="day11.1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day11.1" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687250882000_7" label="day11.2" name="day11.2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day11.2" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687339092619_8" label="day12.1" name="day12.1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day12.1" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687339121456_9" label="day12.2" name="day12.2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day12.2" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687339142894_10" label="day12.3" name="day12.3">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day12.3" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687339164405_11" label="day12.4" name="day12.4">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day12.4" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687339190724_12" label="day12.5" name="day12.5">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day12.5" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687339213288_13" label="day12.6" name="day12.6">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day12.6" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687339286343_14" label="day11_lab" name="day11_lab">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day11_lab" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687376836905_15" label="spring_mvc_template" name="spring_mvc_template">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring_mvc_template" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687425331821_16" label="day13.1" name="day13.1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day13.1" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687425354689_17" label="day13.2" name="day13.2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day13.2" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687425379918_18" label="day13.3" name="day13.3">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day13.3" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687510536272_19" label="day14_boot" name="day14_boot">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day14_boot" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687511016753_20" label="spring_boot_template_mvc" name="spring_boot_template_mvc">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring_boot_template_mvc" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687600628344_21" label="spring_boot_backend_template" name="spring_boot_backend_template">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring_boot_backend_template" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687600666021_22" label="day15.1" name="day15.1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day15.1" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687600716490_23" label="day15_REST" name="day15_REST">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day15_REST" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687803251669_24" label="day16_lab" name="day16_lab">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day16_lab" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687803276923_25" label="spring_boot_backend_security_jwt_template" name="spring_boot_backend_security_jwt_template"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687856536672_26" label="day17.1" name="day17.1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day17.1" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687856560403_27" label="day17.2" name="day17.2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day17.2" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1689679091967_28" label="Ecommerce-Backend" name="Ecommerce-Backend">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ecommerce-Backend" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1686215942048_2" label="Window Working Set" name="Aggregate for window 1686215942047"/>
+</workingSetManager>
